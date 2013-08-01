@@ -1,6 +1,10 @@
-Welcome to JSmbProvider
-------------------------
+JSmbProvider
+==============
 
 I. Introduction
 
 	A Java NIO file system provider for accessing CIFS/SMB resources. 
+	
+II. Development
+
+	JSmbProvider is still in development, but SmbNotifier.java correctly detects changes to remote SMB directories.
